@@ -1,0 +1,423 @@
+img.img-icon {
+	height: 32px;
+	width: 32px;
+}
+
+.ssfwc_social_share_buttons_wrapper {
+	clear: both;
+}
+
+.ssfwc_social_share_buttons {
+	margin: 14px auto;
+	clear: both;
+	/*visibility: hidden;*/
+	display: flex;
+	flex-wrap: wrap;
+	gap: 8px;
+}
+
+.ssfwc_social_share_buttons.text_icons {
+	justify-content: space-between;
+}
+
+.ssfwc_social_share_buttons a {
+	box-shadow: none !important;
+	text-decoration: none !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	white-space: normal;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	align-items: center;
+	gap: 8px;
+	font-size: 0.9em;
+	color: white!important;
+}
+
+.ssfwc_social_share_buttons a:hover {
+	background-color: #82b0ff!important;
+}
+
+.ssfwc_social_share_buttons.before_tab a {
+	border-right: 5px solid white;
+}
+
+.ssfwc_social_share_buttons a.text_icons {
+	flex: 0 0 calc( 50% - 4px );
+	box-sizing: border-box;
+	padding-left: 5px !important;
+}
+
+.ssfwc_social_share_buttons a.rounded {
+	border-radius: 5px !important;
+}
+
+.ssfwc_social_share_buttons a.square {
+	border-radius: 0 !important;
+}
+
+.ssfwc_social_share_buttons a.circle {
+	border-radius: 100% !important;
+}
+
+.ssfwc_text_before_buttons {
+	margin-bottom: 0;
+	margin-top: 14px;
+}
+
+.a2a_s_facebook {
+	background-color: rgb( 8, 102, 255 ) !important;
+}
+
+.a2a_s_mastodon {
+	background-color: rgb( 99, 100, 255 ) !important;
+}
+
+.a2a_s_bluesky {
+	background-color: rgb( 18, 133, 254 ) !important;
+}
+
+.a2a_s_whatsapp {
+	background-color: rgb( 18, 175, 10 ) !important;
+}
+
+.a2a_s_email {
+	background-color: rgb( 136, 137, 144 ) !important;
+}
+
+.a2a_s_pinterest {
+	background-color: rgb( 230, 0, 35 ) !important;
+}
+
+.a2a_s_telegram {
+	background-color: rgb( 44, 165, 224 ) !important;
+}
+
+.a2a_s_sms {
+	background-color: rgb( 108, 190, 69 ) !important;
+}
+
+.a2a_s_facebook_messenger {
+	background-color: rgb( 0, 132, 255 ) !important;
+}
+
+.a2a_s_reddit {
+	background-color: rgb( 255, 69, 0 ) !important;
+}
+
+.a2a_s_google_gmail {
+	background-color: rgb( 234, 67, 53 ) !important;
+}
+
+.a2a_s_pocket {
+	background-color: rgb( 238, 64, 86 ) !important;
+}
+
+.a2a_s_threads {
+	background-color: rgb( 26, 26, 26 ) !important;
+}
+
+.a2a_s_linkedin {
+	background-color: rgb( 0, 123, 181 ) !important;
+}
+
+.a2a_s_microsoft_teams {
+	background-color: rgb( 80, 89, 201 ) !important;
+}
+
+.a2a_s_mix {
+	background-color: rgb( 255, 130, 38 ) !important;
+}
+
+.a2a_s_google_translate {
+	background-color: rgb( 82, 143, 245 ) !important;
+}
+
+.a2a_s_amazon_wish_list {
+	background-color: rgb( 255, 153, 0 ) !important;
+}
+
+.a2a_s_aol_mail {
+	background-color: rgb( 26, 26, 26 ) !important;
+}
+
+.a2a_s_balatarin {
+	background-color: rgb( 7, 153, 72 ) !important;
+}
+
+.a2a_s_bibsonomy {
+	background-color: rgb( 26, 26, 26 ) !important;
+}
+
+.a2a_s_blogger {
+	background-color: rgb( 253, 163, 82 ) !important;
+}
+
+.a2a_s_blogmarks {
+	background-color: rgb( 83, 83, 83 ) !important;
+}
+
+.a2a_s_bookmarks_fr {
+	background-color: rgb( 150, 192, 68 ) !important;
+}
+
+.a2a_s_box_net {
+	background-color: rgb( 26, 116, 176 ) !important;
+}
+
+.a2a_s_buffer {
+	background-color: rgb( 26, 26, 26 ) !important;
+}
+
+.a2a_s_copy_link {
+	background-color: rgb( 136, 137, 144 ) !important;
+}
+
+.a2a_s_diary_ru {
+	background-color: rgb( 145, 45, 49 ) !important;
+}
+
+.a2a_s_diaspora {
+	background-color: rgb( 46, 52, 54 ) !important;
+}
+
+.a2a_s_digg {
+	background-color: rgb( 26, 26, 26 ) !important;
+}
+
+.a2a_s_diigo {
+	background-color: rgb( 74, 139, 202 ) !important;
+}
+
+.a2a_s_douban {
+	background-color: rgb( 0, 119, 17 ) !important;
+}
+
+.a2a_s_draugiem {
+	background-color: rgb( 255, 102, 0 ) !important;
+}
+
+.a2a_s_evernote {
+	background-color: rgb( 0, 168, 45 ) !important;
+}
+
+.a2a_s_fark {
+	background-color: rgb( 85, 85, 85 ) !important;
+}
+
+.a2a_s_flipboard {
+	background-color: rgb( 204, 0, 0 ) !important;
+}
+
+.a2a_s_folkd {
+	background-color: rgb( 15, 112, 178 ) !important;
+}
+
+.a2a_s_google_classroom {
+	background-color: rgb( 255, 193, 18 ) !important;
+}
+
+.a2a_s_hacker_news {
+	background-color: rgb( 255, 102, 0 ) !important;
+}
+
+.a2a_s_hatena {
+	background-color: rgb( 0, 166, 219 ) !important;
+}
+
+.a2a_s_houzz {
+	background-color: rgb( 122, 193, 67 ) !important;
+}
+
+.a2a_s_instapaper {
+	background-color: rgb( 26, 26, 26 ) !important;
+}
+
+.a2a_s_kakao {
+	background-color: rgb( 252, 183, 0 ) !important;
+}
+
+.a2a_s_kindle_it {
+	background-color: rgb( 26, 26, 26 ) !important;
+}
+
+.a2a_s_known {
+	background-color: rgb( 26, 26, 26 ) !important;
+}
+
+.a2a_s_line {
+	background-color: rgb( 0, 195, 0 ) !important;
+}
+
+.a2a_s_livejournal {
+	background-color: rgb( 17, 49, 64 ) !important;
+}
+
+.a2a_s_mail_ru {
+	background-color: rgb( 53, 111, 172 ) !important;
+}
+
+.a2a_s_mendeley {
+	background-color: rgb( 167, 8, 5 ) !important;
+}
+
+.a2a_s_meneame {
+	background-color: rgb( 255, 125, 18 ) !important;
+}
+
+.a2a_s_mewe {
+	background-color: rgb( 0, 125, 161 ) !important;
+}
+
+.a2a_s_micro_blog {
+	background-color: rgb( 255, 136, 0 ) !important;
+}
+
+.a2a_s_mixi {
+	background-color: rgb( 209, 173, 90 ) !important;
+}
+
+.a2a_s_myspace {
+	background-color: rgb( 26, 26, 26 ) !important;
+}
+
+.a2a_s_odnoklassniki {
+	background-color: rgb( 242, 114, 12 ) !important;
+}
+
+.a2a_s_outlook_com {
+	background-color: rgb( 0, 114, 198 ) !important;
+}
+
+.a2a_s_papaly {
+	background-color: rgb( 58, 192, 246 ) !important;
+}
+
+.a2a_s_pinboard {
+	background-color: rgb( 19, 65, 222 ) !important;
+}
+
+.a2a_s_plurk {
+	background-color: rgb( 207, 104, 47 ) !important;
+}
+
+.a2a_s_print {
+	background-color: rgb( 136, 137, 144 ) !important;
+}
+
+.a2a_s_printfriendly {
+	background-color: rgb( 109, 159, 0 ) !important;
+}
+
+.a2a_s_pusha {
+	background-color: rgb( 0, 114, 184 ) !important;
+}
+
+.a2a_s_qzone {
+	background-color: rgb( 43, 130, 217 ) !important;
+}
+
+.a2a_s_raindrop_io {
+	background-color: rgb( 11, 126, 208 ) !important;
+}
+
+.a2a_s_rediff {
+	background-color: rgb( 210, 0, 0 ) !important;
+}
+
+.a2a_s_refind {
+	background-color: rgb( 20, 146, 239 ) !important;
+}
+
+.a2a_s_sina_weibo {
+	background-color: rgb( 230, 22, 45 ) !important;
+}
+
+.a2a_s_sitejot {
+	background-color: rgb( 255, 200, 8 ) !important;
+}
+
+.a2a_s_skype {
+	background-color: rgb( 0, 175, 240 ) !important;
+}
+
+.a2a_s_slashdot {
+	background-color: rgb( 0, 66, 66 ) !important;
+}
+
+.a2a_s_snapchat {
+	background-color: rgb( 26, 26, 26 ) !important;
+}
+
+.a2a_s_stocktwits {
+	background-color: rgb( 64, 87, 111 ) !important;
+}
+
+.a2a_s_svejo {
+	background-color: rgb( 91, 212, 40 ) !important;
+}
+
+.a2a_s_symbaloo_bookmarks {
+	background-color: rgb( 109, 168, 247 ) !important;
+}
+
+.a2a_s_threema {
+	background-color: rgb( 26, 26, 26 ) !important;
+}
+
+.a2a_s_trello {
+	background-color: rgb( 0, 121, 191 ) !important;
+}
+
+.a2a_s_tumblr {
+	background-color: rgb( 0, 25, 53 ) !important;
+}
+
+.a2a_s_twiddla {
+	background-color: rgb( 26, 26, 26 ) !important;
+}
+
+.a2a_s_twitter {
+	background-color: rgb( 29, 155, 240 ) !important;
+}
+
+.a2a_s_typepad_post {
+	background-color: rgb( 210, 222, 97 ) !important;
+}
+
+.a2a_s_viber {
+	background-color: rgb( 124, 82, 158 ) !important;
+}
+
+.a2a_s_vk {
+	background-color: rgb( 88, 126, 163 ) !important;
+}
+
+.a2a_s_wechat {
+	background-color: rgb( 123, 179, 46 ) !important;
+}
+
+.a2a_s_wordpress {
+	background-color: rgb( 88, 92, 96 ) !important;
+}
+
+.a2a_s_wykop {
+	background-color: rgb( 54, 125, 169 ) !important;
+}
+
+.a2a_s_x {
+	background-color: rgb( 26, 26, 26 ) !important;
+}
+
+.a2a_s_xing {
+	background-color: rgb( 22, 91, 102 ) !important;
+}
+
+.a2a_s_yahoo_mail {
+	background-color: rgb( 64, 0, 144 ) !important;
+}
+
+.a2a_s_yummly {
+	background-color: rgb( 225, 97, 32 ) !important;
+}
