@@ -1,4 +1,7 @@
 # Social Sharer for WooComerce
+
+[![Plugin Banner](https://ps.w.org/social-sharer-for-woo/assets/banner-772x250.png)](https://wordpress.org/plugins/social-sharer-for-woo/)
+
 **Tags:** Woocommerce, social-share, social-buttons, button, responsive-buttons \
 **Tested up to:** 6.8 \
 **Requires PHP:** 8.0
