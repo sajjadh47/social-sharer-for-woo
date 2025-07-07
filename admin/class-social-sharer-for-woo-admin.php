@@ -119,7 +119,7 @@ class Social_Sharer_For_Woo_Admin {
 	public function admin_menu() {
 		add_menu_page(
 			__( 'Social Sharer for WooComerce', 'social-sharer-for-woo' ),
-			__( 'Social Sharer for WooComerce', 'social-sharer-for-woo' ),
+			__( 'Social Sharer', 'social-sharer-for-woo' ),
 			'manage_options',
 			'social-sharer-for-woo',
 			array( $this, 'menu_page' ),

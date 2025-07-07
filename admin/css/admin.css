@@ -23,7 +23,7 @@
 .ssfwc_buttons_position_field select,
 .ssfwc_buttons_icontext_field select,
 .select2-container {
-	min-width: 25rem;
+	min-width: 25em;
 }
 
 .select2-container--default .select2-results__option .select2-results__option {
@@ -79,7 +79,7 @@ img.img-icon {
 .icons-style-preview {
 	display: block;
 	margin-top: 10px;
-	width: 25rem;
+	width: 25em;
 	max-width: 100%;
 	height: 200px;
 	background-repeat: no-repeat;

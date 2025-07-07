@@ -14,7 +14,7 @@
  * Plugin URI:        https://wordpress.org/plugins/social-sharer-for-woo/
  * Description:       Add attractive PluginDescription responsive social sharing icons with link to your woocommerce product pages.
  * Version:           2.0.0
- * Requires at least: 6.5
+ * Requires at least: 5.6
  * Requires PHP:      8.0
  * Author:            Sajjad Hossain Sagor
  * Author URI:        https://sajjadhsagor.com/
@@ -73,8 +73,7 @@ function on_deactivate_social_sharer_for_woo() {
 register_deactivation_hook( __FILE__, 'on_deactivate_social_sharer_for_woo' );
 
 /**
- * The core plugin class that is used to define internationalization,
- * admin-specific hooks, and public-facing site hooks.
+ * The core plugin class that is used to define admin-specific and public-facing hooks.
  *
  * @since    2.0.0
  */
