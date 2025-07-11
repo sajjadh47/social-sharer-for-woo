@@ -87,6 +87,9 @@ Update inputs according to your requirement and you are good to go.
 
 ## Changelog
 
+### 2.0.1
+* Fixed issue: typo giving fatal error
+
 ### 2.0.0
 - Checked for latest wp version 6.8, new block widget introduced, settings page updated fro more modern look
 

@@ -13,7 +13,7 @@
  * Plugin Name:       Social Sharer for WooComerce
  * Plugin URI:        https://wordpress.org/plugins/social-sharer-for-woo/
  * Description:       Add attractive PluginDescription responsive social sharing icons with link to your woocommerce product pages.
- * Version:           2.0.0
+ * Version:           2.0.1
  * Requires at least: 5.6
  * Requires PHP:      8.0
  * Author:            Sajjad Hossain Sagor
@@ -33,7 +33,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 /**
  * Currently plugin version.
  */
-define( 'SOCIAL_SHARER_FOR_WOO_PLUGIN_VERSION', '2.0.0' );
+define( 'SOCIAL_SHARER_FOR_WOO_PLUGIN_VERSION', '2.0.1' );
 
 /**
  * Define Plugin Folders Path
