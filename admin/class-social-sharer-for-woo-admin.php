@@ -118,7 +118,7 @@ class Social_Sharer_For_Woo_Admin {
 	 */
 	public function admin_menu() {
 		add_menu_page(
-			__( 'Social Sharer for WooComerce', 'social-sharer-for-woo' ),
+			__( 'Social Sharer For WooComerce', 'social-sharer-for-woo' ),
 			__( 'Social Sharer', 'social-sharer-for-woo' ),
 			'manage_options',
 			'social-sharer-for-woo',
@@ -393,7 +393,7 @@ class Social_Sharer_For_Woo_Admin {
 		if ( ! class_exists( 'WooCommerce', false ) ) {
 			sprintf(
 				'<div class="notice notice-warning is-dismissible"><p>%s <a href="%s">%s</a> %s</p></div>',
-				__( 'Social Sharer for WooComerce requires', 'social-sharer-for-woo' ),
+				__( 'Social Sharer For WooComerce requires', 'social-sharer-for-woo' ),
 				esc_url( 'https://wordpress.org/plugins/woocommerce/' ),
 				__( 'WooCommerce', 'social-sharer-for-woo' ),
 				__( 'plugin to be active!', 'social-sharer-for-woo' ),
