@@ -1,4 +1,4 @@
-=== Social Sharer for WooComerce ===
+=== Social Sharer For WooComerce ===
 Tags: Woocommerce, social-share, social-buttons, button, responsive-buttons
 Contributors: sajjad67
 Author: Sajjad Hossain Sagor

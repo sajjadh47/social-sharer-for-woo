@@ -82,7 +82,7 @@ class Social_Sharer_For_Woo_Widget extends WP_Widget {
 		$title = isset( $instance['title'] ) ? $instance['title'] : __( 'Social Sharing Buttons', 'social-sharer-for-woo' );
 		?>
 		<p>
-			<label for="<?php echo esc_attr( $this->get_field_id( 'title' ) ); ?>"><?php esc_html_e( 'Title:' ); ?></label>
+			<label for="<?php echo esc_attr( $this->get_field_id( 'title' ) ); ?>"><?php esc_html_e( 'Title:', 'social-sharer-for-woo' ); ?></label>
 			<input class="widefat" id="<?php echo esc_attr( $this->get_field_id( 'title' ) ); ?>" name="<?php echo esc_attr( $this->get_field_name( 'title' ) ); ?>" type="text" value="<?php echo esc_attr( $title ); ?>" />
 		</p>
 		<?php
