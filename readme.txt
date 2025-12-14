@@ -2,9 +2,9 @@
 Tags: Woocommerce, social-share, social-buttons, button, responsive-buttons
 Contributors: sajjad67
 Author: Sajjad Hossain Sagor
-Tested up to: 6.8
+Tested up to: 6.9
 Requires at least: 5.6
-Stable tag: 2.0.1
+Stable tag: 2.0.2
 Requires PHP: 8.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -67,6 +67,8 @@ Update inputs according to your requirement and you are good to go.
 7. Social Sharing Buttons displayed in product page front (Icons only after product image).
 
 == Changelog ==
+= 2.0.2 =
+- Checked for latest wp version 6.9
 = 2.0.1 =
 - Fixed issue: typo giving fatal error
 = 2.0.0 =

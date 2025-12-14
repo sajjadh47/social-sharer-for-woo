@@ -3,7 +3,7 @@
 [![Plugin Banner](https://ps.w.org/social-sharer-for-woo/assets/banner-772x250.png)](https://wordpress.org/plugins/social-sharer-for-woo/)
 
 **Tags:** Woocommerce, social-share, social-buttons, button, responsive-buttons \
-**Tested up to:** 6.8 \
+**Tested up to:** 6.9 \
 **Requires PHP:** 8.0
 
 Add attractive & responsive social sharing icons with link to your WooCommerce product pages.
@@ -86,6 +86,9 @@ Update inputs according to your requirement and you are good to go.
 ![Social Sharing Buttons displayed in product page front (Icons only after product image).](https://ps.w.org/social-sharer-for-woo/assets/screenshot-7.png)
 
 ## Changelog
+
+### 2.0.2
+- Compatibility check for wp 6.9
 
 ### 2.0.1
 * Fixed issue: typo giving fatal error

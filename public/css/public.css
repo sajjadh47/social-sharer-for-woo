@@ -1,6 +1,6 @@
-img.img-icon {
-	height: 32px;
-	width: 32px;
+.ssfwc_social_share_buttons_wrapper img.img-icon {
+	height: 32px!important;
+	width: 32px!important;
 }
 
 .ssfwc_social_share_buttons_wrapper {
@@ -10,7 +10,6 @@ img.img-icon {
 .ssfwc_social_share_buttons {
 	margin: 14px auto;
 	clear: both;
-	/*visibility: hidden;*/
 	display: flex;
 	flex-wrap: wrap;
 	gap: 8px;
